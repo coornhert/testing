@@ -1,6 +1,6 @@
 {
   "addons": {
-    "addon@example.com": {
+    "{2e711fd5-b224-43df-894b-0aab8549cf6a}": {
       "updates": [
         { "version": "0.0.1",
           "update_link": "https://github.com/coornhert/BetterZermelo/releases/download/v0.0.1/betterzermelo-0.0.1-an+fx.xpi" },
